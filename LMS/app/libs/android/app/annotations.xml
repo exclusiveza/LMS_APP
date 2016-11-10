@@ -1,0 +1,5 @@
+<root>
+  <item name='android.app.DownloadManager'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>

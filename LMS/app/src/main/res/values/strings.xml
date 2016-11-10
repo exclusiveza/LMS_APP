@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LMS_App</string>
+    <string name="lms_login">LMS Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_but">Login</string>
+</resources>
